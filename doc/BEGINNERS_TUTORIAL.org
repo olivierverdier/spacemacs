@@ -318,7 +318,7 @@ This is useful outside of Spacemacs as well!
 
 ** Troubleshooting and further info
 ~SPC ?~ shows you the keybindings in the current major mode, which is often
-helpful. For troubleshooting, please refer to the FAQ by pressing ~SPC f e f~ or
+helpful. For troubleshooting, please refer to the FAQ by pressing ~SPC h f~ or
 [[https://github.com/syl20bnr/spacemacs/blob/master/doc/FAQ.org][online]]. More help is found under ~SPC h~, and with ~SPC h ~SPC~ you can access
 the comprehensive Spacemacs documentation, including this tutorial and the layer
 documents.
